@@ -1,0 +1,11 @@
+{
+  "name": "ts-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cakeFactory.js",
+  "scripts": {
+    "start": "tsc && node built/cakeFactory.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
